@@ -16,4 +16,6 @@ To evaluate how accurately the model has learned the relationships in the data, 
 Finally, a scatter plot is created to visually compare the predicted values against the actual values. A red diagonal reference line is added to show the ideal prediction line, where predicted equals actual. Points that lie close to this line indicate accurate predictions, while deviations from the line highlight errors. This visual representation is a quick and intuitive way to understand the model’s performance. Overall, this task provides hands-on experience in building a basic regression model, understanding data relationships, evaluating performance, and visualizing results, forming the foundation for more complex machine learning projects.
 
  *OUTPUT*:
- 
+ ![Image](https://github.com/user-attachments/assets/9334186a-85e9-4d09-af35-86f545cde2f8)
+![Image](https://github.com/user-attachments/assets/9c3d2e9a-6142-4844-9fa7-a431875d5809)
+![Image](https://github.com/user-attachments/assets/008472e6-d45e-4653-858c-0c51090ca28a)
